@@ -38,6 +38,6 @@ I'm passionate about turning raw data into meaningful insights. Currently lookin
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=art-shche&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shcherbinaart&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shcherbinaart&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
